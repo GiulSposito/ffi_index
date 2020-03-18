@@ -1,0 +1,17 @@
+title,data,type
+Ticker,codneg,character
+Público Alvo,iq,factor
+Tipo de FII,tipo,factor
+Administrador,adm,character
+Último Rend. (R$),urendrs,numeric
+Último Rend. (%),urendpercent,numeric
+Data Pagamento,urenddatapag,Date
+Data Base,urenddatabase,Date
+Rend. Méd. 12m (R$),rendmed12rs,numeric
+Rend. Méd. 12m (%),rendmed12percent,numeric
+Patrimônio/Cota,ppc,numeric
+Cotação/VP,cvp,numeric
+Nº negócios/mês,nnegmed,integer
+Partic. IFIX,ifix,numeric
+Número Cotistas,ncotistas,integer
+Patrimônio,patrimonio,numeric
